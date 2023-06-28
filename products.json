@@ -1,0 +1,46 @@
+{
+    "products" : [
+        {
+            "id": 1 ,
+            "title": "Rose" ,
+            "image": "https://i.postimg.cc/HLhMzNgF/biel-morro-kc-Ki-Bc-DTJt4-unsplash.jpg",
+            "description": "A rose is a delicate flower with velvety petals that unfold in a symmetrical pattern, showcasing its timeless elegance. Its captivating fragrance and vibrant colors make it a symbol of love, beauty, and passion.",
+            "price": "R100.00"
+        },
+        {
+            "id": 2 ,
+            "title": "Sunflower",
+            "image": "https://i.postimg.cc/N09Fsf3P/jordan-cormack-79-Ruac-Ui-XUI-unsplash.jpg",
+            "description": "A sunflower is a tall and majestic flower that stands proudly with its vibrant yellow petals and a dark center filled with seeds. Its large, cheerful blooms follow the movement of the sun, symbolizing positivity, happiness, and a sunny disposition.",
+            "price": "R160.00"
+        },
+        {
+            "id": 3 ,
+            "title": "Lily",
+            "image": "https://i.postimg.cc/zDjz1gLG/serafima-lazarenko-i-Vu-WPrf-CZI-unsplash.jpg",
+            "description": "A lily is an exquisite flower with elegant, trumpet-shaped blooms and long, slender stems. Its delicate petals, often in shades of white, pink, or orange, exude a sweet fragrance, adding a touch of grace and purity to any setting.",
+            "price": "R500.00"
+        },
+        {
+            "id": 4 ,
+            "title": "Jasmine",
+            "image": "https://i.postimg.cc/tJSt0gQC/nazim-zafri-VHhn5t-XVFVk-unsplash.jpg",
+            "description": "Jasmine is a fragrant flower with small, delicate white blossoms that release a sweet and intoxicating scent, especially in the evening. Its vining nature allows it to gracefully climb and adorn trellises, walls, and fences, creating a romantic and enchanting atmosphere wherever it blooms.",
+            "price": "R70.00"
+        },
+        {
+            "id": 5 ,
+            "title": "Daisy",
+            "image": "https://i.postimg.cc/9X4p6GgG/micheile-henderson-ROs-Xqv-Rzhi-Q-unsplash.jpg",
+            "description": "A daisy is a simple and charming flower with a sunny yellow center surrounded by delicate white petals. Its cheerful and unassuming nature makes it a symbol of innocence, purity, and the beauty found in simplicity.",
+            "price": "R150.00"
+        },
+        {
+            "id": 6 ,
+            "title": "Tulip",
+            "image": "https://i.postimg.cc/fLq14t0k/tulip.jpg",
+            "description": "A tulip is a graceful flower with smooth, upright stems and vibrant, cup-shaped blooms that come in a variety of colors, including red, yellow, pink, and purple. Its elegant form and striking colors make it a symbol of spring, renewal, and beauty.",
+            "price": "R200.00"
+        }
+    ]
+}
